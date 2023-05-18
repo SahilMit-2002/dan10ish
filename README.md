@@ -17,7 +17,7 @@ Check out my <a href="https://danish.dev/">website</a>.
 <hr>
 <p align="center">
 <p align="center">
-    I am currently a <b>3rd year</b> undergraduate from <a href="http://engineering.nmims.edu/" target="_blank" rel="noopener noreferrer"> <b>Mukesh Patel School Of Technology Management & Engineering (NMIMS)</b></a>, Mumbai, pursuing <b>Mechatronics Engineering</b>.
+    I am currently a <b>3rd year</b> undergraduate from <a href="https://vitbhopal.ac.in/" target="_blank" rel="noopener noreferrer"> <b>Vellore Institute of Technology (VIT)</b></a>, Bhopal, pursuing <b>Computer Science and Engineering</b>.
      
   <br>
   <br>
